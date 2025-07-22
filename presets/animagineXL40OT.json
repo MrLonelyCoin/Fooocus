@@ -1,0 +1,17 @@
+{
+  "default_model": "animagine-xl-40-opt.safetensors",
+  "default_refiner": "animagine-xl-40-opt.safetensors",
+  "default_aspect_ratio": "1080*1920",
+  "default_performance": "Quality",
+  "default_cfg_scale": 4.0,
+  "default_refiner_switch": 0.5,
+  "default_image_number": 2,
+  "default_prompt_negative": "blurry, low resolution, bad anatomy, deformed, mutated, ugly, worst quality, low quality, jpeg artifacts, extra limbs, fewer limbs, missing limbs, child, child-like, nudity, overly sexualized, realistic weapon, deformed, disfigured, poor anatomy, bad hands, blurry, low resolution, low quality, worst quality, normal quality, jpeg artifacts, signature, watermark, username, text, error, missing fingers, extra fingers, fewer digits, cropped, out of frame, monochrome, grayscale, bad art, poorly drawn, bad composition, mutated, deformed eyes, asymmetrical eyes, mismatched eyes, unfocused eyes, low detail eyes, asymmetrical eyes, mismatched eyes, different sized eyes, different shaped eyes, eyes looking in different directions, one eye bigger than the other, one eye smaller than the other, cross-eyed, extra limbs, liquid, realistic weapon, realistic gun, firearm",
+  "default_styles": [
+        "Fooocus V2",
+        "Fooocus Cinematic"
+    ],
+  "checkpoint_downloads": {
+        "animagine-xl-4.0-opt.safetensors": "https://huggingface.co/cagliostrolab/animagine-xl-4.0/resolve/main/animagine-xl-4.0-opt.safetensors"
+   }
+}
